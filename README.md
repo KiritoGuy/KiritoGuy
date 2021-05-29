@@ -36,4 +36,4 @@
 
 <h2>Contact</h2>
 
-<a href="https://discord.gg/J53CnTGZg8"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" height="50px"></a> <a href="https://m.twitch.tv/quantumgamer7"><img src="https://images.app.goo.gl/w6SkXLBLahenk3qr6" height="50px"></a> <a href="https://youtube.com/channel/UC6On-JI6lKImdSuwW2A0mLw"><img src="https://images.app.goo.gl/ifFb9zYw4qco27rcA" height="50px"></a>
+<a href="https://discord.gg/J53CnTGZg8"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" height="50px"></a>
