@@ -43,6 +43,8 @@
   <a href="https://top.gg/bot/794623460030545981">
       <img src="https://top.gg/api/widget/upvotes/794623460030545981.svg" alt="HiRO 🏅" />
   </a>
+&nbsp
+&nbsp
   <a href="https://www.python.org/">
       <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" alt="HiRO 🏅" />
   </a><br>
