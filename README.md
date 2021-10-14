@@ -26,6 +26,30 @@
   </div>
 </details>
 
-### There Is Nothing To Much Here. :(
+### Currently Working On HiRO
+
+<details>
+  <summary>learn more</summary>
+  <div>
+    <br>
+    <p>HiRO is a multipurpose Discord bot that was designed to make your Discord life easier and cooler.</p>
+<h1 align="center">
+  <a href="https://top.gg/bot/794623460030545981">
+      <img src="https://top.gg/api/widget/status/794623460030545981.svg" alt="HiRO 🏅" />
+  </a>
+  <a href="https://top.gg/bot/794623460030545981">
+      <img src="https://top.gg/api/widget/servers/794623460030545981.svg" alt="HIRO 🏅" />
+  </a>
+  <a href="https://top.gg/bot/794623460030545981">
+      <img src="https://top.gg/api/widget/upvotes/794623460030545981.svg" alt="HiRO 🏅" />
+  </a>
+  <a href="https://www.python.org/">
+      <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" alt="HiRO 🏅" />
+  </a><br>
+  <a href="https://discord.com/oauth2/authorize?client_id=794623460030545981&scope=bot&permissions=268492800">
+      <img src="https://img.shields.io/badge/-Add%20Bot-141B2E?style=for-the-badge&logo=discord"/>
+</h1>
+  </div>
+</details>
 
 #### Special Thanks To Nirlep_5252_ uwu ( he helped me in lot of stuffs 🧙 )
