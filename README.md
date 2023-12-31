@@ -1,6 +1,6 @@
 <div align="center"><img src="481ca2002cf1b671251f0b77180decfb3ac7c525r1-540-224_hq.gif"></div>
 
-# Me [Kirito Guy]!(https://youtube.com/channel/UCvJlwpuMneU7do5hsTUYV9A) 
+# Me [Kirito Guy](https://youtube.com/channel/UCvJlwpuMneU7do5hsTUYV9A)!
 
 ## I Love To Watch Anime And Develop Stuffs.
 
