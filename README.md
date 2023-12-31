@@ -53,5 +53,3 @@
 </h1>
   </div>
 </details>
-
-#### Special Thanks To Nirlep_5252_ uwu ( he helped me in lot of stuffs 🧙 )
